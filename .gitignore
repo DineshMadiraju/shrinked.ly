@@ -1,0 +1,18 @@
+#Go build artifacts
+*.exe
+*.out
+*.log
+
+#environment variables
+
+.env
+
+#IDE and OS files
+.vscode/
+.idea/
+.DS_Store
+
+#Dependency directories
+
+vendor/
+bin/
